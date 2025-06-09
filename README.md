@@ -1,4 +1,4 @@
-# Meshtastic Transmission Simulator
+# Meshtastic Speed Simulator
 
 Simulates Meshtastic radio preset transmission speeds by displaying text content in real-time chunks, throttled to match actual LoRa data rates.
 
@@ -91,8 +91,8 @@ python meshtastic_sim.py [source] [preset_id]
 ## Installation
 
 ```bash
-git clone https://github.com/dillweed/meshtastic-sim.git
-cd meshtastic-sim
+git clone https://github.com/dillweed/meshtastic-speed-sim.git
+cd meshtastic-speed-sim
 python meshtastic_sim.py
 ```
 
