@@ -1,6 +1,6 @@
 # Meshtastic Speed Simulator
 
-Simulates Meshtastic radio preset transmission speeds by displaying text content in real-time chunks, throttled to match actual LoRa data rates.
+Terminal-based Python script that simulates Meshtastic radio preset transmission speeds by displaying text content in real-time chunks, throttled to match actual LoRa data rates.
 
 ## Quick Start
 
